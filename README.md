@@ -18,5 +18,7 @@ LICENZED ONLY FOR PERSONAL USE! NOT COMMERCIAL.
 
 ![Manopola](https://github.com/amigamess/ArkaStation/assets/82521152/9a2984f1-866d-45e3-aef7-0808eef2945a)
 
+![bottone](https://github.com/amigamess/ArkaStation/assets/82521152/47f0405e-257f-4d69-8bac-f811a97cb908)
+
 
 
