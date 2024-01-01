@@ -10,7 +10,6 @@ Main unit has a second DB9 Connector able to connect SECOND pad for 2 players.
 
 Tested fine also on PONG! and Puzzle Bobble 2022!
 
-LICENZED ONLY FOR PERSONAL USE! NOT COMMERCIAL.
 
 ![arka_02_0](https://user-images.githubusercontent.com/82521152/175062807-8f5a84ce-9586-44ab-b8c5-81cfc8f5a635.jpg)
 
@@ -20,5 +19,5 @@ LICENZED ONLY FOR PERSONAL USE! NOT COMMERCIAL.
 
 ![bottone](https://github.com/amigamess/ArkaStation/assets/82521152/47f0405e-257f-4d69-8bac-f811a97cb908)
 
-
+ONLY FOR PERSONAL USE! NOT COMMERCIAL.
 
